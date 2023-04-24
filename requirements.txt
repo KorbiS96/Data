@@ -43,7 +43,7 @@ jupyterlab-pygments==0.2.2
 kaleido==0.2.1
 kiwisolver==1.4.4
 MarkupSafe==2.1.1
-matplotlib==3.6.2
+matplotlib
 mistune==2.0.4
 multidict==6.0.4
 nbclient==0.7.2
