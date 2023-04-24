@@ -5,10 +5,9 @@ import dash_bootstrap_components as dbc
 
 def main():
     app = Dash(__name__)
-    server = app.server
     app.title = "GFCC Database"
     app.layout = create_layout(app)
-    server.run()
+    app.run()
 
 if __name__ == "__main__":
     main() 
